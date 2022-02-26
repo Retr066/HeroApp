@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HeroApp/static/css/main.7692b008.css",
-    "main.js": "/HeroApp/static/js/main.fde66c80.js",
+    "main.js": "/HeroApp/static/js/main.fe863882.js",
     "static/js/787.ec666379.chunk.js": "/HeroApp/static/js/787.ec666379.chunk.js",
     "index.html": "/HeroApp/index.html",
     "main.7692b008.css.map": "/HeroApp/static/css/main.7692b008.css.map",
-    "main.fde66c80.js.map": "/HeroApp/static/js/main.fde66c80.js.map",
+    "main.fe863882.js.map": "/HeroApp/static/js/main.fe863882.js.map",
     "787.ec666379.chunk.js.map": "/HeroApp/static/js/787.ec666379.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7692b008.css",
-    "static/js/main.fde66c80.js"
+    "static/js/main.fe863882.js"
   ]
 }
